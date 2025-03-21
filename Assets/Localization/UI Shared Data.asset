@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI
+  m_TableCollectionNameGuidString: 7686e831860cbc24b9ec26e66b5deac7
+  m_Entries:
+  - m_Id: 42423754752
+    m_Key: _startPlaying
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1500099584000
+    m_Key: _exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1656358379520
+    m_Key: _settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3871160606720
+    m_Key: _lang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14243263356928
+    m_Key: _myGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16556321349632
+    m_Key: _back
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 7653625999258288152
+  references:
+    version: 2
+    RefIds:
+    - rid: 7653625999258288152
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1741941450281
